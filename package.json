@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/sharozraees802/MusicCard.git#readme",
   "dependencies": {
-    "http-server": "^0.11.1"
+    "http-server": "^0.11.2"
   }
 }
